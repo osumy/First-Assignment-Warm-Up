@@ -69,8 +69,6 @@ public class Exercises1 {
     }
 
 
-    public static void main(String[] args) {
-        // test your code here!
-    }
+    public static void main(String[] args){}
 
 }
